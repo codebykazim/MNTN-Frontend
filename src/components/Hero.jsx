@@ -155,7 +155,7 @@ const Hero = () => {
         style={isReady ? { y: contentY, opacity: contentOpacity } : {}}
         className="relative z-40 max-w-[1440px] mx-auto px-6 lg:px-20 w-full h-full flex items-center"
       >
-     <div className="w-full -mt-50 sm:-mt-80 lg:-mt-120">
+     <div className="w-full -mt-50 sm:-mt-80 lg:-mt-90">
   {/* All content aligned to center */}
   <div className="text-center w-full max-w-4xl mx-auto">
     {/* A Hiking Guide - Center aligned */}
